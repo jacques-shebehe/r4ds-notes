@@ -1,1 +1,1 @@
-# r4ds-notes
+See https://github.com/higgi13425/quarto-live-book/
